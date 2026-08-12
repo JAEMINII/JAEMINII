@@ -2,7 +2,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
     <div style="text-align: left;">
       <b>SNU AI Challenge 2026 — 본선 진출 · 장려상</b> &nbsp;(팀 HYperBall)<br/>
-      🔗 <a href="https://snuaichallenge.github.io/">snuaichallenge.github.io</a> &nbsp;·&nbsp; <a href="https://github.com/JAEMINII/SNU_AI_challenge">Solution</a>
+      🔗 <a href="https://snuaichallenge.github.io/">snuaichallenge.github.io</a> &nbsp;·&nbsp;
       <!-- 지난 학기 프로젝트도 여기에 같은 형식으로 추가 -->
     </div>
     <br>
