@@ -3,7 +3,6 @@
     <div style="text-align: left;">
       <img src="https://img.shields.io/badge/SNU_AI_Challenge_2026-Encouragement_Award-F58220?style=flat-square&logo=github&logoColor=white"><br/><br/>
       <b>SNU AI Challenge 2026 — 본선 진출 · 장려상</b> &nbsp;(팀 HYperBall)<br/>
-      이미지 순서 복원 · Qwen3.6-27B + QLoRA + Multiscale Label TTA · <b>Public 0.917</b><br/>
       🔗 <a href="https://github.com/JAEMINII/SNU_AI_challenge">github.com/JAEMINII/SNU_AI_challenge</a>
     </div>
     <br>
